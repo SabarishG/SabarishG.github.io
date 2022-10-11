@@ -2,7 +2,9 @@ title: Sabarish Gnanamoorthy
 author: Sabarish Gnanamoorthy
 url: https://www.sabarishg.com # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Sabarish Gnanamoorthy is a 19 yr old immersive experience designer
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet justo donec enim diam vulputate ut. Leo in vitae turpis massa sed elementum tempus egestas sed. At varius vel pharetra vel turpis nunc eget lorem. Bibendum arcu vitae elementum curabitur vitae nunc sed. Massa eget egestas purus viverra accumsan in nisl. Ut sem viverra aliquet eget sit amet tellus cras. Cum sociis natoque penatibus et magnis dis. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Id neque aliquam vestibulum morbi blandit cursus risus at. Eu tincidunt tortor aliquam nulla facilisi cras. Malesuada fames ac turpis egestas integer eget aliquet. Aliquet bibendum enim facilisis gravida neque.
+
+Odio pellentesque diam volutpat commodo. Magna fringilla urna porttitor rhoncus. At auctor urna nunc id. Turpis in eu mi bibendum neque egestas congue. Tempor id eu nisl nunc mi ipsum faucibus vitae aliquet. Ut sem viverra aliquet eget sit. Enim sed faucibus turpis in eu mi bibendum neque egestas. Vulputate odio ut enim blandit volutpat. Pharetra et ultrices neque ornare. Diam maecenas ultricies mi eget mauris pharetra et ultrices neque. Commodo sed egestas egestas fringilla phasellus. Vitae congue mauris rhoncus aenean vel elit scelerisque. Mauris ultrices eros in cursus turpis massa. Commodo sed egestas egestas fringilla.
 
 permalink: /:slug
 
@@ -22,7 +24,7 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
-  show_footer: false # show footer links in home page,add in _data/home.yml
+  show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: false # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: false # show projects as cards, add in _data/home.yml
