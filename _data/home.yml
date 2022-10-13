@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: about
-    url: about
-
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: readings
+    url: readings
+
+  - title: extras
+    url: extras
 
 project_entries:
   - title: Project 1
@@ -54,17 +54,17 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: email
+    url: sabarish.gnana@outlook.com
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/sabarishgnana
 
-  - title: github
-    url: https://github.com/abhinavs
+  - title: linkedin
+    url: https://linkedin.com/sabarishgnanamoorthy
 
-  - title: feed
-    url: feed.xml
+  - title: resume
+    url: resume
 
 misc_entries:
   - title: this is an example vertical list
