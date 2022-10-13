@@ -84,7 +84,7 @@ misc_entries:
     url: false
     entries:
       - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+        url: github
 
       - title: originally built for abhinav's homepage
         url: https://www.abhinav.co
