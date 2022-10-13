@@ -2,15 +2,11 @@ title: Sabarish Gnanamoorthy
 author: Sabarish Gnanamoorthy
 url: https://www.sabarishg.com # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet justo donec enim diam vulputate ut. Leo in vitae turpis massa sed elementum tempus egestas sed. At varius vel pharetra vel turpis nunc eget lorem. Bibendum arcu vitae elementum curabitur vitae nunc sed. Massa eget egestas purus viverra accumsan in nisl. Ut sem viverra aliquet eget sit amet tellus cras. Cum sociis natoque penatibus et magnis dis. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Id neque aliquam vestibulum morbi blandit cursus risus at. Eu tincidunt tortor aliquam nulla facilisi cras. Malesuada fames ac turpis egestas integer eget aliquet. Aliquet bibendum enim facilisis gravida neque.
+  Currently a Product Owner at IBM iX. You can find me spending the rest of my time working as an immersive experience designer.<br> <br> I spent the past few years building expertise and positioning myself as a thought leader in the Virtual and Augmented reality industry. I specialize in integrating immersive experiences into existing business models and technology stacks.<br> Things to look forward to:<br> - <br> - <br> Hobbies <br> - <br> -
 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
-
-twitter:
-    username: sabarishgnana # update or delete this
-    card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
