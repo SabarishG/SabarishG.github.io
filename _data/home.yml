@@ -63,9 +63,6 @@ footer_entries:
   - title: linkedin
     url: https://www.linkedin.com/in/sabarish-gnanamoorthy/
 
-  - title: resume
-    url: resume.pdf
-
 misc_entries:
   - title: this is an example vertical list
     url: false
